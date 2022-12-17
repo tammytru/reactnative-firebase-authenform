@@ -1,2 +1,2 @@
-# reactnative-firebase-authenform
-CTC onboarding. Using Firebase with React Native to create a signin/signup form
+# React Native and Firebase Authentification Form
+Using Firebase with React Native to create a signin/signup form. 
